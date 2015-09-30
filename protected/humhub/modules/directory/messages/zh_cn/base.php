@@ -17,5 +17,5 @@
  * NOTE, this file must be saved in UTF-8 encoding.
  */
 return array (
-  'Directory' => '<strong>目 录</strong>',
+  'Directory' => '<strong>校园广场</strong>',
 );

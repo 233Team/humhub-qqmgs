@@ -17,5 +17,5 @@
  * NOTE, this file must be saved in UTF-8 encoding.
  */
 return array (
-  'Dashboard' => '<strong>主面板</strong>',
+  'Dashboard' => '<strong>新鲜事</strong>',
 );

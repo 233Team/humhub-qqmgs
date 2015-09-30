@@ -17,9 +17,9 @@
  * NOTE, this file must be saved in UTF-8 encoding.
  */
 return array (
-  '<strong>Directory</strong> menu' => '目录菜单',
-  'Groups' => '组',
-  'Members' => '成员',
-  'Spaces' => '版块',
-  'User profile posts' => '用户推送',
+  '<strong>Directory</strong> menu' => '校园广场菜单',
+  'Groups' => '- 用户组',
+  'Members' => '- 成员',
+  'Spaces' => '- 兴趣小组',
+  'User profile posts' => '- 校园新鲜事',
 );
